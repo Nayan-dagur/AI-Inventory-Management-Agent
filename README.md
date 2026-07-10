@@ -21,26 +21,26 @@ Features
 
 ⸻
 
-Workflow Architecture
-User Message
+Workflow Architecture<br>
+User Message<br>
       │
       ▼
-Chat Trigger
+Chat Trigger<br>
       │
       ▼
-OpenAI Chat Model
+OpenAI Chat Model<br>
       │
       ▼
-Simple Memory
+Simple Memory<br>
       │
       ▼
-Inventory Agent Logic
+Inventory Agent Logic<br>
       │
       ▼
-Excel Inventory Database
+Excel Inventory Database<br>
       │
       ▼
-Inventory Response / Update
+Inventory Response / Update<br>
 ⸻
 
 Example Queries
