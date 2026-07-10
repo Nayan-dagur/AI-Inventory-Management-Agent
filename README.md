@@ -136,4 +136,4 @@ Author
 
 Nayan Dagur
 
-AI & Machine Learning Enthusiast | Building AI Agents and Automation Solutions with n8n and LLMs
+AI & Machine Learning Enthusiast 
